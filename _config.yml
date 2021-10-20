@@ -7,4 +7,4 @@ email: leyla.ksl123@gmail.com
 description: "Fragmentos filosóficos que nos conceden darle lectura a nuestra existencia"
 
 # Build settings
-theme: jekyll-theme-modernist
+remote_theme: jekyll/minima
