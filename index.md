@@ -3,7 +3,7 @@ layout: home
 ---
 
 *Vale la pena analizar cada hilo que compone la realidad*
-
+<br>
 Bienvenidos a mi sitio web!<3 Aquí encontrarán  diversos e interesantes fragmentos filosóficos de Heráclito, y mi marcado en ellos n.n
 ---
 <br>
