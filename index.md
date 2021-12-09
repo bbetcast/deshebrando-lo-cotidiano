@@ -6,7 +6,6 @@ layout: home
 
 Bienvenidos a mi sitio web!<3 Aquí encontrarán  diversos e interesantes fragmentos filosóficos de Heráclito, y mi marcado en ellos n.n
 ---
-<br>
 
   `<?xml version=''1.0'' encoding=''UTF-8''?>` `<?xml-model href=''http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng''
 schematypens=''http://relaxng.org/ns/structure/1.0''?>` `<TEI xmlns=''http://wwww.tei-c.org/ns/1.0''>`
